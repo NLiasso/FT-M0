@@ -1,0 +1,9 @@
+* `for` // for es una manera de iniciar un bucle. Los bucles son útiles cuando tenemos un flujo de datos constante y no queremos
+            que el código sea redundante o repetitivo. Entonces usamos for para que el interprete para que lea la información y,
+            según las indicaciones que establecimos, nos devuelva el resultado que le pedimos las veces solicitadas hasta el momento
+            en que le indicamos detenerse. Es importante, como en todo bucle, escribir el código de tal manera que no tengamos un bucle
+            infinito.
+
+* `&&`, `||`, `!` // Todas estos son operadores lógicos. Sirven para comparar una expresión con otra y entregar un resultado. Están relacionados
+                    con la lógica (como aprendes en matemática o filosofía). Son útiles a la hora de comparar dos enunciados que pueden o no tener
+                    distintos valores (verdader o falso) y hacer que el código se comporte de cierta manera según el resultado.
